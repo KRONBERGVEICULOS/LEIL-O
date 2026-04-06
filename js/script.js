@@ -44,7 +44,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Trava elétrica</li>
 </ul>
 `,
-                fotos: ["palio2019.png"],
+                fotos: ["images/palio2019.png"],
                 opcoesLance: [3000, 3500, 4000, 4500, 5000, 6000]
             },
             {
@@ -73,7 +73,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Detalhe: Necessita reposição do vidro traseiro</li>
 </ul>
 `,
-                fotos: ["palio4300.png"],
+                fotos: ["images/palio4300.png"],
                 opcoesLance: [5500, 6000, 6500, 7000, 8000, 9000]
             },
             {
@@ -98,7 +98,7 @@ const numeroWhatsApp = "5516996540954";
     <li>IPVA: Pago</li>
 </ul>
 `,
-                fotos: ["chovelet1.png", "chovelet2.png", "chevelet3.png"],
+                fotos: ["images/chovelet1.png", "chovelet2.png", "chevelet3.png"],
                 opcoesLance: [4000, 4500, 5000, 5500, 6000, 7000]
             },
             {
@@ -122,7 +122,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Documentação e regularização: Não informada</li>
 </ul>
 `,
-                fotos: ["camionet.png", "camionet3.png", "camionet4.png", "camionet5.png", "camionet6.png", "camionet7.png"],
+                fotos: ["images/camionet.png", "camionet3.png", "camionet4.png", "camionet5.png", "camionet6.png", "camionet7.png"],
                 opcoesLance: [15000, 16000, 17000, 18000, 19000, 20000]
             },
             {
@@ -146,7 +146,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Combustível: Flex</li>
 </ul>
 `,
-                fotos: ["fiat.png", "fiat2.png", "fiat3.png", "fiat4.png", "fiat5.png", "fiat6.png", "fiat7.png"],
+                fotos: ["images/fiat.png", "fiat2.png", "fiat3.png", "fiat4.png", "fiat5.png", "fiat6.png", "fiat7.png"],
                 opcoesLance: [6000, 6500, 7000, 7500, 8000, 9000]
             },
             {
@@ -170,7 +170,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Combustível: Diesel</li>
 </ul>
 `,
-                fotos: ["toyota.png", "toyota2.png", "toyota3.png", "toyota4.png", "toyota5.png", "toyota6.png", "toyota7.png", "toyota8.png", "toyota9.png", "toyota10.png"],
+                fotos: ["images/toyota.png", "toyota2.png", "toyota3.png", "toyota4.png", "toyota5.png", "toyota6.png", "toyota7.png", "toyota8.png", "toyota9.png", "toyota10.png"],
                 opcoesLance: [15000, 16000, 17000, 18000, 19000, 20000]
             },
             {
@@ -192,7 +192,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Categoria: Trator agrícola</li>
 </ul>
 `,
-                fotos: ["trator.png", "trator2.png", "trator3.png", "trator4.png", "trator5.png"],
+                fotos: ["images/trator.png", "trator2.png", "trator3.png", "trator4.png", "trator5.png"],
                 opcoesLance: [20000, 21000, 22000, 23000, 25000, 28000]
             },
             {
@@ -216,7 +216,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Combustível: Flex</li>
 </ul>
 `,
-                fotos: ["gol.png", "gol2.png", "gol3.png", "gol4.png", "gol5.png", "gol6.png", "gol7.png", "gol8.png", "gol9.png", "gol10.png", "gol11.png"],
+                fotos: ["images/gol.png", "gol2.png", "gol3.png", "gol4.png", "gol5.png", "gol6.png", "gol7.png", "gol8.png", "gol9.png", "gol10.png", "gol11.png"],
                 opcoesLance: [2500, 3000, 3500, 4000, 4500, 5000]
             },
             {
@@ -240,7 +240,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Combustível: Flex</li>
 </ul>
 `,
-                fotos: ["std.png", "std2.png", "std3.png", "std4.png", "std5.png", "std6.png", "std7.png", "std8.png", "std10.png"],
+                fotos: ["images/std.png", "std2.png", "std3.png", "std4.png", "std5.png", "std6.png", "std7.png", "std8.png", "std10.png"],
                 opcoesLance: [7000, 7500, 8000, 8500, 9000, 10000]
             },
             {
@@ -264,7 +264,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Combustível: Gasolina</li>
 </ul>
 `,
-                fotos: ["hudai.png", "hudai2.png", "hudai3.png", "hudai4.png", "hudai5.png"],
+                fotos: ["images/hudai.png", "hudai2.png", "hudai3.png", "hudai4.png", "hudai5.png"],
                 opcoesLance: [4500, 5000, 5500, 6000, 6500, 7000]
             },
             {
@@ -287,7 +287,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Localização: Parque Fleixal – Guapimirim/RJ</li>
 </ul>
 `,
-                fotos: ["factor.png", "factor2.png", "factor3.png", "factor4.png", "factor5.png"],
+                fotos: ["images/factor.png", "factor2.png", "factor3.png", "factor4.png", "factor5.png"],
                 opcoesLance: [2000, 2200, 2500, 2800, 3000, 3500]
             },
             {
@@ -308,7 +308,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Quilometragem: 93 km</li>
 </ul>
 `,
-                fotos: ["honda.png", "honda2.png", "honda3.png", "honda4.png", "honda5.png", "honda6.png", "honda7.png", "honda8.png"],
+                fotos: ["images/honda.png", "honda2.png", "honda3.png", "honda4.png", "honda5.png", "honda6.png", "honda7.png", "honda8.png"],
                 opcoesLance: [1500, 1700, 2000, 2500, 3000, 3500]
             }
         ];
