@@ -21,7 +21,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Placa: J*****7</li>
 </ul>
 `,
-                fotos: ["biz1.png"],
+                fotos: ["images/biz1.png"],
                 opcoesLance: [800, 900, 1000, 1200, 1500, 2000]
             },
             {
