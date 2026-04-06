@@ -21,7 +21,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Placa: J*****7</li>
 </ul>
 `,
-                fotos: ["biz1.png", "biz2.png", "biz3.png", "biz4.png", "biz5.png"],
+                fotos: ["biz1.png"],
                 opcoesLance: [800, 900, 1000, 1200, 1500, 2000]
             },
             {
@@ -73,7 +73,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Detalhe: Necessita reposição do vidro traseiro</li>
 </ul>
 `,
-                fotos: ["palio4300.png", "IMG-20260208-WA0009.png", "IMG-20260208-WA0010.jpg", "IMG-20260208-WA0011.jpg"],
+                fotos: ["palio4300.png"],
                 opcoesLance: [5500, 6000, 6500, 7000, 8000, 9000]
             },
             {
