@@ -50,27 +50,27 @@ const numeroWhatsApp = "5516996540954";
             },
                 {
                 titulo: "T-cross Branco",
-                lote: "Lote #1752",
-                lanceInicial: 6000,
-                lanceAtual: 7280,
-                lanceMinimo: 2000,
-                usuario: "Eduardo Gonçalves",
+                lote: "Lote #1223",
+                lanceInicial: 5000,
+                lanceAtual: 5410,
+                lanceMinimo: 5000,
+                usuario: "José Arruda",
                 local: "Curitiba, PR",
                 descricao: `
-<p><strong>Honda Sedan Touring 1.5 Turbo</strong></p>
-<p>Veículo em perfeito estado, sem sinistro, oportunidade única.</p>
+<p><strong>Volkswagen Highline 1.4 TSI Flex</strong></p>
+<p>Veículo semi-novo, motor ok, documento em mãos.</p>
 <p><strong>Informações:</strong></p>
 <ul>
-    <li>Marca: Honda</li>
-    <li>Modelo: Touring 1.5 Turbo</li>
-    <li>Ano: 2017</li>
+    <li>Marca: Volkswagem</li>
+    <li>Modelo: Highline 1.4 TSI</li>
+    <li>Ano: 2021</li>
     <li>Chaves: Com chave</li>
-    <li>Quilometragem: 22.000 km</li>
+    <li>Quilometragem: 17.000 km</li>
     <li>Localização: Rua Cândido de Abreu – Curitiba/PR</li>
 </ul>
 `,
-                fotos: ["images/civicg10.jpg", "images/civicg10_2.jpg", "images/civicg10_3.jpg", "images/civicg10_4.jpg", "images/civicg10_5.jpg", "images/civicg10_5.webp", "images/civicg10_6.webp", "images/civicg10_7.webp", "images/civicg10_8.webp", "images/civicg10_9.webp", "images/civicg10_10.webp", "images/civicg10_11.webp", "images/civicg10_12.webp", "images/civicg10_13.webp", "images/civicg10_14.webp"],
-                opcoesLance: [6000, 6220, 6500, 6800, 7000, 7500]
+                fotos: ["images/tcross.webp", "images/tcross2.jpg", "images/tcross3.jpg", "images/tcross4.jpg", "images/tcross5.jpg", "images/tcross6.jpg", "images/tcross7.webp", "images/tcross8.jpg", "images/tcross9.jpg", "images/tcross10.jpg", "images/tcross11.jpg", "images/tcross12.jpg", "images/tcross13.jpg", "images/tcross14.jpg"],
+                opcoesLance: [5000, 5220, 5500, 5800, 6000, 7500]
             },
             {
                 titulo: "Fiat Palio 2005",
