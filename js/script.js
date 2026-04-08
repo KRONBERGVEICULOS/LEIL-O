@@ -2,6 +2,30 @@ const numeroWhatsApp = "5516996540954";
 
         const produtos = [
             {
+                titulo: "Volkswagen Amarok Extreme CD 3.0",
+                lote: "Lote #1428",
+                lanceInicial: 17000,
+                lanceAtual: 19280,
+                lanceMinimo: 15000,
+                usuario: "Manoel Bragança",
+                local: "Pátio de Retirada",
+                descricao: `
+<p><strong>Volkswagen Amarok Extreme CD 3.0 4X4 2021</strong></p>
+<p>Veículo em perfeito estado, sem sinistro, oportunidade única.</p>
+<p><strong>Informações:</strong></p>
+<ul>
+    <li>Marca: Volkswagen</li>
+    <li>Modelo: Amarok Extreme CD 3.0</li>
+    <li>Ano: 2021</li>
+    <li>Chaves: Com chave</li>
+    <li>Quilometragem: 31.000 km</li>
+    <li>Localização: Curitiba/PR</li>
+</ul>
+`,
+                fotos: ["images/amarok.jpg", "images/amarok2.jpg", "images/amarok3.jpg", "images/amarok4.jpg", "images/amarok5.jpg", "images/amarok5.jpg", "images/amarok6.webp"],
+                opcoesLance: [15000, 15220, 15500, 15800, 16000, 17500]
+            },
+                {
                 titulo: "Honda Biz 110i 2022",
                 lote: "Lote #1001",
                 lanceInicial: 1100,
@@ -25,7 +49,7 @@ const numeroWhatsApp = "5516996540954";
                 opcoesLance: [800, 900, 1000, 1200, 1500, 2000]
             },
                 {
-                titulo: "HONDA CIVIC G10 2017",
+                titulo: "Honda Civic G10 2017",
                 lote: "Lote #1752",
                 lanceInicial: 6000,
                 lanceAtual: 7280,
