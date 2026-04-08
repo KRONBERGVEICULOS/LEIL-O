@@ -72,6 +72,30 @@ const numeroWhatsApp = "5516996540954";
                 fotos: ["images/tcross.webp", "images/tcross2.jpg", "images/tcross3.jpg", "images/tcross4.jpg", "images/tcross5.jpg", "images/tcross6.jpg", "images/tcross7.webp", "images/tcross8.jpg", "images/tcross9.jpg", "images/tcross10.jpg", "images/tcross11.jpg", "images/tcross12.jpg", "images/tcross13.jpg", "images/tcross14.jpg"],
                 opcoesLance: [5000, 5220, 5500, 5800, 6000, 7500]
             },
+                {
+                titulo: "Fiat Toro 1.8",
+                lote: "Lote #1910",
+                lanceInicial: 8000,
+                lanceAtual: 10400,
+                lanceMinimo: 8000,
+                usuario: "Carlos Ribeiro",
+                local: "Curitiba, PR",
+                descricao: `
+<p><strong>Fiat Endurence 1.8 16V Flex</strong></p>
+<p>Veículo praticamente zero km, completo, sem sinistro.</p>
+<p><strong>Informações:</strong></p>
+<ul>
+    <li>Marca: Fiat</li>
+    <li>Modelo: Endurance 1.8 Flex</li>
+    <li>Ano: 2019</li>
+    <li>Chaves: Com chave</li>
+    <li>Quilometragem: 2.300 km</li>
+    <li>Localização: Rua Cândido de Abreu – Curitiba/PR</li>
+</ul>
+`,
+                fotos: ["images/toro.jpg", "images/toro2.jpg", "images/toro3.jpg", "images/toro4.jpg", "images/toro5.webp", "images/toro6.webp", "images/toro7.webp", "images/toro8.webp", "images/toro9.webp", "images/toro10.webp", "images/toro11.webp"],
+                opcoesLance: [8000, 8200, 8500, 8800, 9000, 9500]
+            },
             {
                 titulo: "Fiat Palio 2005",
                 lote: "Lote #1002",
