@@ -49,7 +49,7 @@ const numeroWhatsApp = "5516996540954";
                 opcoesLance: [6000, 6220, 6500, 6800, 7000, 7500]
             },
                 {
-                titulo: "T-cross Branco",
+                titulo: "T-cross",
                 lote: "Lote #1223",
                 lanceInicial: 5000,
                 lanceAtual: 5410,
