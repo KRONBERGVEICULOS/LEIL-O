@@ -31,7 +31,7 @@ const numeroWhatsApp = "5516996540954";
                 lanceAtual: 7.280,
                 lanceMinimo: 2000,
                 usuario: "Eduardo Gonçalves",
-                local: "Manaus, AM",
+                local: "Curitiba, PR",
                 descricao: `
 <p><strong>Honda Sedan Touring 1.5 Turbo</strong></p>
 <p>Veículo em perfeito estado, sem sinistro, oportunidade única.</p>
@@ -40,6 +40,7 @@ const numeroWhatsApp = "5516996540954";
     <li>Marca: Honda</li>
     <li>Modelo: Touring 1.5 Turbo</li>
     <li>Ano: 2017</li>
+    <li>Chaves: Com chave</li>
     <li>Quilometragem: 22.000 km</li>
     <li>Localização: Rua Cândido de Abreu – Curitiba/PR</li>
 </ul>
