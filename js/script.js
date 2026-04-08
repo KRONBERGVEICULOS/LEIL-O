@@ -27,8 +27,8 @@ const numeroWhatsApp = "5516996540954";
                 {
                 titulo: "HONDA CIVIC G10 2017",
                 lote: "Lote #1752",
-                lanceInicial: 6.000,
-                lanceAtual: 7.280,
+                lanceInicial: 6000,
+                lanceAtual: 7280,
                 lanceMinimo: 2000,
                 usuario: "Eduardo Gonçalves",
                 local: "Curitiba, PR",
