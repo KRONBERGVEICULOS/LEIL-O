@@ -46,7 +46,7 @@ const numeroWhatsApp = "5516996540954";
 </ul>
 `,
                 fotos: ["images/civicg10.jpg", "images/civicg10_2.jpg", "images/civicg10_3.jpg", "images/civicg10_4.jpg", "images/civicg10_5.jpg", "images/civicg10_5.webp", "images/civicg10_6.webp", "images/civicg10_7.webp", "images/civicg10_8.webp", "images/civicg10_9.webp", "images/civicg10_10.webp", "images/civicg10_11.webp", "images/civicg10_12.webp", "images/civicg10_13.webp", "images/civicg10_14.webp"],
-                opcoesLance: [2000, 2200, 2500, 2800, 3000, 3500]
+                opcoesLance: [6000, 6220, 6500, 6800, 7000, 7500]
             },
             {
                 titulo: "Fiat Palio 2005",
