@@ -4,9 +4,9 @@ const numeroWhatsApp = "5516996540954";
             {
                 titulo: "Honda Biz 110i 2022",
                 lote: "Lote #1001",
-                lanceInicial: 800,
-                lanceAtual: 800,
-                lanceMinimo: 100,
+                lanceInicial: 1100,
+                lanceAtual: 1110,
+                lanceMinimo: 1000,
                 usuario: "José Silva",
                 local: "São Paulo, SP",
                 descricao: `
@@ -49,7 +49,7 @@ const numeroWhatsApp = "5516996540954";
                 opcoesLance: [6000, 6220, 6500, 6800, 7000, 7500]
             },
                 {
-                titulo: "T-cross",
+                titulo: "T-cross Highline 1.4 2021",
                 lote: "Lote #1223",
                 lanceInicial: 5000,
                 lanceAtual: 5410,
@@ -101,7 +101,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1002",
                 lanceInicial: 3000,
                 lanceAtual: 3000,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Maria Santos",
                 local: "Valinhos, SP",
                 descricao: `
@@ -124,7 +124,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1003",
                 lanceInicial: 5500,
                 lanceAtual: 5500,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Pedro Costa",
                 local: "Curitiba, PR",
                 descricao: `
@@ -153,7 +153,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1004",
                 lanceInicial: 4000,
                 lanceAtual: 4000,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Ana Paula",
                 local: "Porto Alegre, RS",
                 descricao: `
@@ -178,7 +178,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1005",
                 lanceInicial: 15000,
                 lanceAtual: 15000,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Carlos Alberto",
                 local: "Florianópolis, SC",
                 descricao: `
@@ -202,7 +202,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1006",
                 lanceInicial: 6000,
                 lanceAtual: 6000,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Roberto Lima",
                 local: "São Paulo, SP",
                 descricao: `
@@ -226,7 +226,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1007",
                 lanceInicial: 15000,
                 lanceAtual: 15000,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Fernando Souza",
                 local: "Campinas, SP",
                 descricao: `
@@ -250,7 +250,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1008",
                 lanceInicial: 20000,
                 lanceAtual: 20000,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Juliana Martins",
                 local: "Brasília, DF",
                 descricao: `
@@ -272,7 +272,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1009",
                 lanceInicial: 2500,
                 lanceAtual: 2500,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Lucas Oliveira",
                 local: "Rio de Janeiro, RJ",
                 descricao: `
@@ -296,7 +296,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1010",
                 lanceInicial: 7000,
                 lanceAtual: 7000,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Patricia Alves",
                 local: "São Paulo, SP",
                 descricao: `
@@ -320,7 +320,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1011",
                 lanceInicial: 4500,
                 lanceAtual: 4500,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Ricardo Nunes",
                 local: "Belo Horizonte, MG",
                 descricao: `
@@ -344,7 +344,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1012",
                 lanceInicial: 2000,
                 lanceAtual: 2000,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Marcelo Santos",
                 local: "Guarujá, SP",
                 descricao: `
@@ -367,7 +367,7 @@ const numeroWhatsApp = "5516996540954";
                 lote: "Lote #1013",
                 lanceInicial: 1500,
                 lanceAtual: 1500,
-                lanceMinimo: 100,
+                lanceMinimo: 1000,
                 usuario: "Gabriel Ferreira",
                 local: "Goiânia, GO",
                 descricao: `
