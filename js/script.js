@@ -24,6 +24,29 @@ const numeroWhatsApp = "5516996540954";
                 fotos: ["images/biz1.png"],
                 opcoesLance: [800, 900, 1000, 1200, 1500, 2000]
             },
+                {
+                titulo: "HONDA CIVIC G10 2017",
+                lote: "Lote #1012",
+                lanceInicial: 2000,
+                lanceAtual: 2000,
+                lanceMinimo: 100,
+                usuario: "Marcelo Santos",
+                local: "Guarujá, SP",
+                descricao: `
+<p><strong>Yamaha 125i ED</strong></p>
+<p>Veículo leiloado no estado em que se encontra.</p>
+<p><strong>Informações:</strong></p>
+<ul>
+    <li>Marca: Yamaha</li>
+    <li>Modelo: 125i ED</li>
+    <li>Ano: 2017</li>
+    <li>Quilometragem: 50.000 km</li>
+    <li>Localização: Parque Fleixal – Guapimirim/RJ</li>
+</ul>
+`,
+                fotos: ["images/civicg10.jpg", "images/civicg10_2.jpg", "images/civicg10_3.jpg", "images/civicg10_4.jpg", "images/civicg10_5.jpg", "images/civicg10_5.webp", "images/civicg10_6.webp", "images/civicg10_7.webp", "images/civicg10_8.webp", "images/civicg10_9.webp", "images/civicg10_10.webp", "images/civicg10_11.webp", "images/civicg10_12.webp", "images/civicg10_13.webp", "images/civicg10_14.webp"],
+                opcoesLance: [2000, 2200, 2500, 2800, 3000, 3500]
+            },
             {
                 titulo: "Fiat Palio 2005",
                 lote: "Lote #1002",
