@@ -5,8 +5,8 @@ const numeroWhatsApp = "5516996540954";
                 titulo: "Volkswagen Amarok Extreme CD 3.0",
                 lote: "Lote #1428",
                 lanceInicial: 17000,
-                lanceAtual: 19280,
-                lanceMinimo: 15000,
+                lanceAtual: 34280,
+                lanceMinimo: 25000,
                 usuario: "Manoel Bragança",
                 local: "Pátio de Retirada",
                 descricao: `
@@ -23,7 +23,7 @@ const numeroWhatsApp = "5516996540954";
 </ul>
 `,
                 fotos: ["images/amarok.jpg", "images/amarok2.jpg", "images/amarok3.jpg", "images/amarok4.jpg", "images/amarok5.jpg", "images/amarok5.jpg", "images/amarok6.webp"],
-                opcoesLance: [15000, 15220, 15500, 15800, 16000, 17500]
+                opcoesLance: [25000, 25220, 25500, 25800, 26000, 27500]
             },
                 {
                 titulo: "Honda Biz 110i 2022",
@@ -52,8 +52,8 @@ const numeroWhatsApp = "5516996540954";
                 titulo: "Honda Civic G10 2017",
                 lote: "Lote #1752",
                 lanceInicial: 6000,
-                lanceAtual: 7280,
-                lanceMinimo: 2000,
+                lanceAtual: 12280,
+                lanceMinimo: 6000,
                 usuario: "Eduardo Gonçalves",
                 local: "Curitiba, PR",
                 descricao: `
@@ -75,9 +75,9 @@ const numeroWhatsApp = "5516996540954";
                 {
                 titulo: "T-cross Highline 1.4 2021",
                 lote: "Lote #1223",
-                lanceInicial: 5000,
-                lanceAtual: 5410,
-                lanceMinimo: 5000,
+                lanceInicial: 15000,
+                lanceAtual: 16410,
+                lanceMinimo: 15000,
                 usuario: "José Arruda",
                 local: "Curitiba, PR",
                 descricao: `
@@ -94,14 +94,14 @@ const numeroWhatsApp = "5516996540954";
 </ul>
 `,
                 fotos: ["images/tcross.webp", "images/tcross2.jpg", "images/tcross3.jpg", "images/tcross4.jpg", "images/tcross5.jpg", "images/tcross6.jpg", "images/tcross7.webp", "images/tcross8.jpg", "images/tcross9.jpg", "images/tcross10.jpg", "images/tcross11.jpg", "images/tcross12.jpg", "images/tcross13.jpg", "images/tcross14.jpg"],
-                opcoesLance: [5000, 5220, 5500, 5800, 6000, 7500]
+                opcoesLance: [15000, 15220, 16000, 16500, 17000, 17500]
             },
                 {
                 titulo: "Fiat Toro 1.8",
                 lote: "Lote #1910",
-                lanceInicial: 8000,
-                lanceAtual: 10400,
-                lanceMinimo: 8000,
+                lanceInicial: 5000,
+                lanceAtual: 23400,
+                lanceMinimo: 20000,
                 usuario: "Carlos Ribeiro",
                 local: "Curitiba, PR",
                 descricao: `
@@ -118,14 +118,14 @@ const numeroWhatsApp = "5516996540954";
 </ul>
 `,
                 fotos: ["images/toro.jpg", "images/toro2.jpg", "images/toro3.jpg", "images/toro4.jpg", "images/toro5.webp", "images/toro6.webp", "images/toro7.webp", "images/toro8.webp", "images/toro9.webp", "images/toro10.webp", "images/toro11.webp"],
-                opcoesLance: [8000, 8200, 8500, 8800, 9000, 9500]
+                opcoesLance: [18000, 18200, 18500, 19000, 19500, 23500]
             },
             {
                 titulo: "Fiat Palio 2005",
                 lote: "Lote #1002",
                 lanceInicial: 3000,
-                lanceAtual: 3000,
-                lanceMinimo: 1000,
+                lanceAtual: 5600,
+                lanceMinimo: 4000,
                 usuario: "Maria Santos",
                 local: "Valinhos, SP",
                 descricao: `
@@ -141,14 +141,14 @@ const numeroWhatsApp = "5516996540954";
 </ul>
 `,
                 fotos: ["images/palio2019.png"],
-                opcoesLance: [3000, 3500, 4000, 4500, 5000, 6000]
+                opcoesLance: [4500, 5500, 6000, 6500, 7000, 8000]
             },
             {
                 titulo: "Fiat Palio",
                 lote: "Lote #1003",
                 lanceInicial: 5500,
-                lanceAtual: 5500,
-                lanceMinimo: 1000,
+                lanceAtual: 4750,
+                lanceMinimo: 2000,
                 usuario: "Pedro Costa",
                 local: "Curitiba, PR",
                 descricao: `
@@ -170,14 +170,14 @@ const numeroWhatsApp = "5516996540954";
 </ul>
 `,
                 fotos: ["images/palio4300.png"],
-                opcoesLance: [5500, 6000, 6500, 7000, 8000, 9000]
+                opcoesLance: [2500, 3000, 4500, 5000, 6000, 7000]
             },
             {
                 titulo: "Chevrolet Corsa",
                 lote: "Lote #1004",
                 lanceInicial: 4000,
                 lanceAtual: 4000,
-                lanceMinimo: 1000,
+                lanceMinimo: 2000,
                 usuario: "Ana Paula",
                 local: "Porto Alegre, RS",
                 descricao: `
@@ -200,9 +200,9 @@ const numeroWhatsApp = "5516996540954";
             {
                 titulo: "Caminhonete F350",
                 lote: "Lote #1005",
-                lanceInicial: 15000,
-                lanceAtual: 15000,
-                lanceMinimo: 1000,
+                lanceInicial: 10000,
+                lanceAtual: 10280,
+                lanceMinimo: 8000,
                 usuario: "Carlos Alberto",
                 local: "Florianópolis, SC",
                 descricao: `
@@ -219,14 +219,14 @@ const numeroWhatsApp = "5516996540954";
 </ul>
 `,
                 fotos: ["images/camionet.png", "images/camionet3.png", "images/camionet4.png", "images/camionet5.png", "images/camionet6.png", "images/camionet7.png"],
-                opcoesLance: [15000, 16000, 17000, 18000, 19000, 20000]
+                opcoesLance: [11000, 12000, 12500, 13000, 13500, 15000]
             },
             {
                 titulo: "Fiat Uno Vivace",
                 lote: "Lote #1006",
                 lanceInicial: 6000,
-                lanceAtual: 6000,
-                lanceMinimo: 1000,
+                lanceAtual: 14900,
+                lanceMinimo: 10000,
                 usuario: "Roberto Lima",
                 local: "São Paulo, SP",
                 descricao: `
@@ -243,14 +243,14 @@ const numeroWhatsApp = "5516996540954";
 </ul>
 `,
                 fotos: ["images/fiat.png", "images/fiat2.png", "images/fiat3.png", "images/fiat4.png", "images/fiat5.png", "images/fiat6.png", "images/fiat7.png"],
-                opcoesLance: [6000, 6500, 7000, 7500, 8000, 9000]
+                opcoesLance: [10000, 11500, 12000, 13500, 14000, 15000]
             },
             {
                 titulo: "Toyota Hilux CD SRV",
                 lote: "Lote #1007",
                 lanceInicial: 15000,
-                lanceAtual: 15000,
-                lanceMinimo: 1000,
+                lanceAtual: 32000,
+                lanceMinimo: 20000,
                 usuario: "Fernando Souza",
                 local: "Campinas, SP",
                 descricao: `
@@ -267,7 +267,7 @@ const numeroWhatsApp = "5516996540954";
 </ul>
 `,
                 fotos: ["images/toyota.png", "images/toyota2.png", "images/toyota3.png", "images/toyota4.png", "images/toyota5.png", "images/toyota6.png", "images/toyota7.png", "images/toyota8.png", "images/toyota9.png", "images/toyota10.png"],
-                opcoesLance: [15000, 16000, 17000, 18000, 19000, 20000]
+                opcoesLance: [20000, 20500, 20700, 21000, 22000, 23000]
             },
             {
                 titulo: "Trator John Deere 6300",
